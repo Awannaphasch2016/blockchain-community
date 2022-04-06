@@ -1,0 +1,51 @@
+#+TITLE: Curated Blockchain Content Note
+
+* People to send
+** Compute Background
+*** Napataron Wannaphaschaiyong
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+*** Panupong Wongsupa
+**** feedback
+***** too hard
+***** perfect
+****** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+**** waiting for response
+*** David Andres
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+** No computer related backgroun
+*** Victor Wolfgang
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*EP 15 - Syndicate DAO - Ian Lee][EP 15 - Syndicate DAO - Ian Lee]]
+*** Jack
+**** feedback
+***** too hard
+****** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+***** perfect
+**** waiting for response
+***** [[*S0 E5: What are DAOs? (Chase Chapman)][S0 E5: What are DAOs? (Chase Chapman)]]
+
+* Week 1 content
+
+* content
+** decentralized autonomous organization (DAO)
+*** Podcast
+**** Seed Club
+***** EP 15 - Syndicate DAO - Ian Lee
+***** Ep 7 - Social Token & the DAO Landscape - Cooper Turley
+***** EP 1 - DAOs All the Way Down - Aaron Wright
+**** DAOn the Rabbit Hole
+***** S1 E16: Legal Issues in DAOs (Marta Belcher from Protocol Labs)
+***** S1 E11: Community-building in DAOs: Bright Moment
+***** S1 E8: Building Governance in DAOs with Tina
+***** S0 E5: What are DAOs? (Chase Chapman)
