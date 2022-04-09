@@ -1,6 +1,9 @@
 #+TITLE: Curated Blockchain Content Note
 
 * People to send
+:PROPERTIES:
+:ID:       f3558d46-d5df-44c7-b9d3-f9637eb08beb
+:END:
 ** Compute Background
 *** Napataron Wannaphaschaiyong
 **** feedback
@@ -31,12 +34,15 @@
 **** feedback
 ***** too hard
 ****** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+:PROPERTIES:
+:ID:       fd89aebf-0e2a-45a8-96f0-3422868262fd
+:END:
 ***** perfect
 **** waiting for response
 ***** [[*S0 E5: What are DAOs? (Chase Chapman)][S0 E5: What are DAOs? (Chase Chapman)]]
 
 * Week 1 content
-
+* Week 2 content
 * content
 ** decentralized autonomous organization (DAO)
 *** Podcast
