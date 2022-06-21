@@ -23,8 +23,26 @@
 ***** perfect
 **** waiting for response
 ***** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+*** Iyann
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*Ep 7 - Social Token & the DAO Landscape - Cooper Turley][Ep 7 - Social Token & the DAO Landscape - Cooper Turley]]
+*** Nickolas (from living green)
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*EP 1 - Builder Jourey - Jeff Kauffman (JUMP )][EP 1 - Builder Jourey - Jeff Kauffman (JUMP )]]
+*** @Meygerios
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+
 ** No computer related backgroun
-*** Victor Wolfgang
+*** Victor Wolfgang :CANCELLED:
 **** feedback
 ***** too hard
 ***** perfect
@@ -40,16 +58,23 @@
 ***** perfect
 **** waiting for response
 ***** [[*S0 E5: What are DAOs? (Chase Chapman)][S0 E5: What are DAOs? (Chase Chapman)]]
+*** Micheal McCourt
+**** feedback
+***** too hard
+***** perfect
+**** waiting for response
+***** [[*EP 15 - Syndicate DAO - Ian Lee][EP 15 - Syndicate DAO - Ian Lee]]
 
-* Week 1 content
-* Week 2 content
 * content
 ** decentralized autonomous organization (DAO)
 *** Podcast
 **** Seed Club
-***** EP 15 - Syndicate DAO - Ian Lee
-***** Ep 7 - Social Token & the DAO Landscape - Cooper Turley
-***** EP 1 - DAOs All the Way Down - Aaron Wright
+***** Other
+****** EP 15 - Syndicate DAO - Ian Lee
+****** Ep 7 - Social Token & the DAO Landscape - Cooper Turley
+****** EP 1 - DAOs All the Way Down - Aaron Wright
+***** Builder Journey
+****** EP 1 - Builder Jourey - Jeff Kauffman (JUMP )
 **** DAOn the Rabbit Hole
 ***** S1 E16: Legal Issues in DAOs (Marta Belcher from Protocol Labs)
 ***** S1 E11: Community-building in DAOs: Bright Moment
